@@ -1,4 +1,4 @@
-
+# 本人8月20号离职，找武汉WPF/Avalonia开发工作。有意者可联系 微信：ywk192zj   QQ:1357703886
 # CommunityToolkit.Mvvm.Navigation.Wpf
 
 This is the WPF version of CommunityToolkit Mvvm Navigation Expansion Pack
